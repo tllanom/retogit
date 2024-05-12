@@ -50,9 +50,9 @@ El reto consitía en demostrar los conocimientos adquiridos en torno a GitHub ta
     - Método isEstrella que devuelve el valor de estrella (true/false)
    
 4. Entrada (Todo dentro del main):
-  - Crea un objeto de la clase partido donde recibirá por parámetros los dos equiposque has creado previamente.
-  - Llama al método de la clase Partido iniciarPartido()
-  - Llama al método de la clase Partido mostrarResultados():
+    - Crea un objeto de la clase partido donde recibirá por parámetros los dos equiposque has creado previamente.
+    - Llama al método de la clase Partido iniciarPartido()
+    - Llama al método de la clase Partido mostrarResultados():
 
 ## Ejemplo de ejecución:
 ![Ejemplo1](retogit1.png)
