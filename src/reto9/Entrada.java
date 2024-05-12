@@ -7,9 +7,9 @@ public class Entrada {
         //Jugador jugador1 = new Jugador();
         //jugador1.mostrarDatos();
 
-        Equipo equipo1 = new Equipo("UNO");
+        Equipo equipo1 = new Equipo("Mallorca");
         equipo1.mostrarDatos();
-        Equipo equipo2 = new Equipo("DOS");
+        Equipo equipo2 = new Equipo("Menorca");
         equipo2.mostrarDatos();
         Partido partido1 = new Partido(equipo1, equipo2);
 
